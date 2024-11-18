@@ -1,0 +1,3 @@
+use this link as a reference fot folder mounts and binds
+
+https://stackoverflow.com/questions/47150829/what-is-the-difference-between-binding-mounts-and-volumes-while-handling-persist
